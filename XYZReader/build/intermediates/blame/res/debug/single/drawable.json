@@ -120,12 +120,12 @@
         "source": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_scrim.xml",
         "source": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\src\\main\\res\\drawable\\shape_scrim.xml"
+    },
+    {
+        "merged": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "C:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
