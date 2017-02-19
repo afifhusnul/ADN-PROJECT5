@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_ec9d98bd7d8a27ac161d2bd94a8f65b063d457b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_44ab3bb66ad6085d52071baa3d4a86a823d387e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.1.1_537ef350bc17cb00bef1eab3f31f08ffc9b9bf7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_b7e0b63f69052022cd3ebd651185e06cef37b45f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_be45084ba07747e752607baf9f7edc8e0ee90f51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.1.1_83eca4853b6ed07d62addf7e00b7a429967ce71e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_487041738d4526f9b26ebde09d0df01bc41dbcc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_7f1617b325829411dc47d347acb3efe1e663d7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4165e541a31285748c9df01e1957c2d30b8d564a">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0899ef75095d0c2a6303c4b7bac5af1bb96f7d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_57aa523194707c1036515cd4d65e738deaac0788\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d90670adeed6a3e323c1f898b55a4d040f9d8c06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_3f9bc011f0e8c8f38061290d74392828cbd90452\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_148faaf988f12ae1c238c8e62dc1e864c56b07fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_2e206d391a1b318aaae5f8cb30b7871f63c3e039\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_ed29487c57fc32a42c67e321666e363decfae3cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_981bdd23266054d8615212c4550956cf9e90e290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_c41e47d862b1a310cd08d9ad5a31af71f782c990\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_bd92a59b6a1cd21fa26cb97f1253e067a88e5686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_2f5ad5df2d851826909fd6fe178b57ac416d53d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0bb49e1c611f9e2fb4473eb3fbc016c38e9b3317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d69c53c04c727a7a65f1883265004a80cb753ae">
+        <dex dex="C:\Users\nusnafif\Downloads\Udacity_Raw\Application\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3b19940e6b0b9ac2b4d634407c045557657ad75e\classes.dex" />
+    </item>
+
+</items>

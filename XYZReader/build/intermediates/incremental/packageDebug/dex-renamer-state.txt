@@ -1,0 +1,7 @@
+#Sun Feb 19 20:11:43 SGT 2017
+base.0=C\:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3b19940e6b0b9ac2b4d634407c045557657ad75e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0899ef75095d0c2a6303c4b7bac5af1bb96f7d05\\classes.dex
+base.1=C\:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0899ef75095d0c2a6303c4b7bac5af1bb96f7d05
+file.0=C\:\\Users\\nusnafif\\Downloads\\Udacity_Raw\\Application\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3b19940e6b0b9ac2b4d634407c045557657ad75e\\classes.dex
